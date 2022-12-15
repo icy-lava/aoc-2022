@@ -27,3 +27,7 @@ echo ''
 echo 'Day 7:'
 cat day_07/input.txt | moon day_07/main.moon
 echo ''
+
+echo 'Day 8:'
+cat day_08/input.txt | moon day_08/main.moon
+echo ''
